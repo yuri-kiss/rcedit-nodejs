@@ -1,0 +1,12 @@
+{
+  "name": "rcedit-nodejs",
+  "version": "1.0.0",
+  "description": "wip",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "keywords": [],
+  "author": "yuri-kiss",
+  "license": "GPL-3.0"
+}
